@@ -46,6 +46,14 @@ const NON_COLLECTION_PATH_HINTS = [
   "/policies",
 ];
 
+const NAV_SECTION_END_LABELS = [
+  "account",
+  "sign in",
+  "about us",
+  "faq",
+  "contact us",
+];
+
 main().catch((error) => {
   console.error(error?.stack || error);
   process.exit(1);
@@ -88,6 +96,13 @@ async function main() {
     totalPages: allPages.length,
     crawledHtmlPages: crawlResults.length,
     sitemapPages: discoveredFromSitemaps.length,
+    focusedNavigation: options.navLabel || options.seedUrls.length > 0
+      ? {
+          navLabel: options.navLabel,
+          seedUrls: options.seedUrls,
+          discoveredPages: crawlResults.filter((page) => page.discoveredFrom?.some((from) => from.startsWith("nav-label") || from === "seed-url")).length,
+        }
+      : undefined,
     collectionCandidates: collectionCandidates.length,
     options,
   };
@@ -110,6 +125,11 @@ function parseArgs(args) {
     else if (arg === "--max-pages") parsed.maxPages = Number(takeValue(arg, next, () => index++));
     else if (arg === "--max-depth") parsed.maxDepth = Number(takeValue(arg, next, () => index++));
     else if (arg === "--timeout-ms") parsed.timeoutMs = Number(takeValue(arg, next, () => index++));
+    else if (arg === "--nav-label") parsed.navLabel = takeValue(arg, next, () => index++);
+    else if (arg === "--seed-url") {
+      parsed.seedUrls ??= [];
+      parsed.seedUrls.push(takeValue(arg, next, () => index++));
+    }
     else if (arg === "--include-query") parsed.includeQuery = true;
     else if (arg === "--allow-cross-host") parsed.sameHostOnly = false;
     else if (arg === "--help" || arg === "-h") {
@@ -118,6 +138,7 @@ function parseArgs(args) {
     }
   }
   parsed.out = path.resolve(parsed.out);
+  parsed.seedUrls ??= [];
   return parsed;
 }
 
@@ -136,6 +157,8 @@ function printUsage() {
 Flags:
   --max-pages 300
   --max-depth 2
+  --nav-label Shop
+  --seed-url https://oldstore.example/category
   --include-query
   --allow-cross-host
   --timeout-ms 15000`);
@@ -182,6 +205,11 @@ async function crawlHtmlPages(startUrl, seededPages, options) {
   const pages = [];
   const startHost = new URL(startUrl).hostname;
 
+  for (const seedUrl of options.seedUrls) {
+    const normalized = normalizeUrl(seedUrl, options, startUrl);
+    if (normalized) queue.push({ url: normalized, depth: 0, from: "seed-url" });
+  }
+
   for (const page of seededPages.slice(0, Math.min(seededPages.length, 100))) {
     if (looksLikeCollectionPath(new URL(page.url).pathname)) {
       queue.push({ url: page.url, depth: 1, from: "sitemap-candidate" });
@@ -213,6 +241,10 @@ async function crawlHtmlPages(startUrl, seededPages, options) {
     const metadata = extractMetadata(response.text);
     const links = extractLinks(response.text, item.url, options)
       .filter((link) => !options.sameHostOnly || new URL(link).hostname === startHost);
+    const focusedNavLinks = item.url === startUrl && options.navLabel
+      ? extractNavLabelLinks(response.text, item.url, options.navLabel, options)
+          .filter((link) => !options.sameHostOnly || new URL(link).hostname === startHost)
+      : [];
 
     pages.push({
       url: item.url,
@@ -223,6 +255,12 @@ async function crawlHtmlPages(startUrl, seededPages, options) {
       ...metadata,
       linkCount: links.length,
     });
+
+    for (const link of focusedNavLinks) {
+      if (!seen.has(link)) {
+        queue.unshift({ url: link, depth: 1, from: `nav-label:${options.navLabel}` });
+      }
+    }
 
     if (item.depth < options.maxDepth) {
       for (const link of links) {
@@ -268,6 +306,7 @@ function extractMetadata(html) {
   const metaDescription = firstMatch(html, /<meta[^>]+name=["']description["'][^>]+content=["']([^"']*)["']/i)
     || firstMatch(html, /<meta[^>]+content=["']([^"']*)["'][^>]+name=["']description["']/i);
   const breadcrumbText = extractBreadcrumbText(html);
+  const schemaTypes = extractStructuredDataTypes(html);
 
   return {
     title: cleanText(title),
@@ -275,6 +314,7 @@ function extractMetadata(html) {
     canonicalUrl: canonicalUrl ? decodeHtml(canonicalUrl) : undefined,
     metaDescription: cleanText(metaDescription),
     breadcrumbText,
+    schemaTypes,
   };
 }
 
@@ -288,13 +328,68 @@ function extractLinks(html, baseUrl, options) {
   return [...links];
 }
 
+function extractNavLabelLinks(html, baseUrl, label, options) {
+  const normalizedLabel = normalizeLooseText(label);
+  const textMatches = [...html.matchAll(/>([^<>]+)</g)];
+  const labelMatch = textMatches.find((match) => normalizeLooseText(match[1]) === normalizedLabel);
+  if (!labelMatch) return [];
+
+  const startIndex = labelMatch.index;
+  const sectionHtml = html.slice(startIndex, Math.min(html.length, startIndex + 30000));
+  const links = new Set();
+  const anchorMatches = sectionHtml.matchAll(/<a\b[^>]*href=["']([^"']+)["'][^>]*>([\s\S]*?)<\/a>/gi);
+
+  for (const match of anchorMatches) {
+    const linkText = normalizeLooseText(match[2]);
+    if (NAV_SECTION_END_LABELS.includes(linkText)) break;
+
+    const normalized = normalizeUrl(match[1], options, baseUrl);
+    if (normalized) links.add(normalized);
+  }
+
+  return [...links];
+}
+
 function extractBreadcrumbText(html) {
   const breadcrumbBlocks = [
     ...html.matchAll(/<[^>]+(?:class|id)=["'][^"']*breadcrumb[^"']*["'][^>]*>([\s\S]{0,2000}?)<\/[^>]+>/gi),
-    ...html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi),
   ];
   const text = breadcrumbBlocks.map((match) => cleanText(match[1])).filter(Boolean).join(" > ");
   return text || undefined;
+}
+
+function extractStructuredDataTypes(html) {
+  const types = new Set();
+  const scripts = html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi);
+
+  for (const script of scripts) {
+    try {
+      collectSchemaTypes(JSON.parse(decodeHtml(script[1])), types);
+    } catch {
+      // Some legacy storefronts emit invalid JSON-LD. It is only a ranking signal.
+    }
+  }
+
+  return [...types].sort();
+}
+
+function collectSchemaTypes(value, types) {
+  if (Array.isArray(value)) {
+    for (const item of value) collectSchemaTypes(item, types);
+    return;
+  }
+  if (!value || typeof value !== "object") return;
+
+  const type = value["@type"];
+  if (Array.isArray(type)) {
+    for (const item of type) types.add(item);
+  } else if (type) {
+    types.add(type);
+  }
+
+  for (const item of Object.values(value)) {
+    collectSchemaTypes(item, types);
+  }
 }
 
 function getCollectionSignals(page) {
@@ -303,6 +398,9 @@ function getCollectionSignals(page) {
   const pathname = url.pathname.toLowerCase();
   const title = `${page.title || ""} ${page.h1 || ""} ${page.breadcrumbText || ""}`.toLowerCase();
 
+  if (page.schemaTypes?.includes("Product")) return signals;
+  if (page.discoveredFrom?.some((from) => from.startsWith("nav-label"))) signals.push("focused navigation link");
+  if (page.discoveredFrom?.includes("seed-url")) signals.push("user seed url");
   if (looksLikeCollectionPath(pathname)) signals.push("collection-like path");
   if (/\b(collection|category|department|catalog|shop|brand|brands)\b/.test(title)) {
     signals.push("collection-like page text");
@@ -359,6 +457,10 @@ function cleanText(value) {
     .replace(/\s+/g, " ")
     .trim();
   return cleaned || undefined;
+}
+
+function normalizeLooseText(value) {
+  return cleanText(value)?.toLowerCase() || "";
 }
 
 function decodeHtml(value) {
