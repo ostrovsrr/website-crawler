@@ -1,0 +1,19 @@
+{
+  "startedAt": "2026-06-05T03:19:56.734Z",
+  "finishedAt": "2026-06-05T03:19:59.340Z",
+  "startUrl": "https://example.com/",
+  "totalPages": 1,
+  "crawledHtmlPages": 1,
+  "sitemapPages": 0,
+  "collectionCandidates": 0,
+  "options": {
+    "out": "C:\\Users\\rodio\\Documents\\Codex\\2026-06-04\\what-is-mcp-for-coding-agents\\work\\collection-redirect-mapper\\runs\\example",
+    "maxPages": 3,
+    "maxDepth": 1,
+    "timeoutMs": 15000,
+    "sameHostOnly": true,
+    "includeQuery": false,
+    "politenessMs": 150,
+    "url": "https://example.com"
+  }
+}

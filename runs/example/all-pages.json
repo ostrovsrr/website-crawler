@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://example.com/",
+    "path": "/",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "homepage"
+    ],
+    "depth": 0,
+    "title": "Example Domain",
+    "h1": "Example Domain",
+    "linkCount": 0
+  }
+]

@@ -1,0 +1,1338 @@
+[
+  {
+    "url": "https://coldcactus.ca/",
+    "path": "/",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "homepage"
+    ],
+    "depth": 0,
+    "title": "Cold Cactus - Western Wear & Goods &ndash; Cold Cactus Inc.",
+    "canonicalUrl": "https://coldcactus.ca/",
+    "metaDescription": "For life lived western. A Canadian-based family owned western wear store serving you from our retail store in Appin, Ontario!",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" } > { \"@context\": \"http://schema.org\", \"@type\": \"WebSite\", \"name\": \"Cold Cactus Inc.\", \"potentialAction\": { \"@type\": \"SearchAction\", \"target\": \"https:\\/\\/coldcactus.ca\\/search?q={search_term_string}\", \"query-input\": \"required name=search_term_string\" }, \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 109
+  },
+  {
+    "url": "https://coldcactus.ca/agents.md",
+    "path": "/agents.md",
+    "discoveredFrom": [
+      "sitemap"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/blogs/news",
+    "path": "/blogs/news",
+    "discoveredFrom": [
+      "sitemap"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections",
+    "path": "/collections",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Collections &ndash; Cold Cactus Inc.",
+    "h1": "Collections",
+    "canonicalUrl": "https://coldcactus.ca/collections",
+    "metaDescription": "For life lived western. A Canadian-based family owned western wear store serving you from our retail store in Appin, Ontario!",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 122
+  },
+  {
+    "url": "https://coldcactus.ca/collections/7fmk-denim",
+    "path": "/collections/7fmk-denim",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "7FMK Denim &ndash; Cold Cactus Inc.",
+    "h1": "7FMK Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/7fmk-denim",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/accessories",
+    "path": "/collections/accessories",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Accessories &ndash; Cold Cactus Inc.",
+    "h1": "Accessories",
+    "canonicalUrl": "https://coldcactus.ca/collections/accessories",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/all-kids-tops",
+    "path": "/collections/all-kids-tops",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "All Kids Tops &ndash; Cold Cactus Inc.",
+    "h1": "All Kids Tops",
+    "canonicalUrl": "https://coldcactus.ca/collections/all-kids-tops",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 121
+  },
+  {
+    "url": "https://coldcactus.ca/collections/antler-home-decor",
+    "path": "/collections/antler-home-decor",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "Antler Home Decor &ndash; Cold Cactus Inc.",
+    "h1": "Antler Home Decor",
+    "canonicalUrl": "https://coldcactus.ca/collections/antler-home-decor",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 117
+  },
+  {
+    "url": "https://coldcactus.ca/collections/ariat",
+    "path": "/collections/ariat",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Ariat &ndash; Cold Cactus Inc.",
+    "h1": "Ariat",
+    "canonicalUrl": "https://coldcactus.ca/collections/ariat",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/ariat-denim",
+    "path": "/collections/ariat-denim",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Ariat Denim &ndash; Cold Cactus Inc.",
+    "h1": "Ariat Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/ariat-denim",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/ariat-footwear",
+    "path": "/collections/ariat-footwear",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/ariat-slippers",
+    "path": "/collections/ariat-slippers",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/bath",
+    "path": "/collections/bath",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/belts-buckles-and-more",
+    "path": "/collections/belts-buckles-and-more",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Belts &ndash; Cold Cactus Inc.",
+    "h1": "Belts",
+    "canonicalUrl": "https://coldcactus.ca/collections/belts-buckles-and-more",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/bootcuts-straight-legs",
+    "path": "/collections/bootcuts-straight-legs",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Bootcuts &ndash; Cold Cactus Inc.",
+    "h1": "Bootcuts",
+    "canonicalUrl": "https://coldcactus.ca/collections/bootcuts-straight-legs",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/boys-tops-outerwear",
+    "path": "/collections/boys-tops-outerwear",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Boy's Tops & Outerwear &ndash; Cold Cactus Inc.",
+    "h1": "Boy's Tops & Outerwear",
+    "canonicalUrl": "https://coldcactus.ca/collections/boys-tops-outerwear",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/boys-tops-outerwear-copy",
+    "path": "/collections/boys-tops-outerwear-copy",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Girl's Tops & Outerwear &ndash; Cold Cactus Inc.",
+    "h1": "Girl's Tops & Outerwear",
+    "canonicalUrl": "https://coldcactus.ca/collections/boys-tops-outerwear-copy",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/bracelets",
+    "path": "/collections/bracelets",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Bracelets & Watch Bands &ndash; Cold Cactus Inc.",
+    "h1": "Bracelets & Watch Bands",
+    "canonicalUrl": "https://coldcactus.ca/collections/bracelets",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 113
+  },
+  {
+    "url": "https://coldcactus.ca/collections/christmas-gift-ideas",
+    "path": "/collections/christmas-gift-ideas",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "Christmas Gift Ideas &ndash; Cold Cactus Inc.",
+    "h1": "Christmas Gift Ideas",
+    "canonicalUrl": "https://coldcactus.ca/collections/christmas-gift-ideas",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 121
+  },
+  {
+    "url": "https://coldcactus.ca/collections/cinch",
+    "path": "/collections/cinch",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "CINCH &ndash; Cold Cactus Inc.",
+    "h1": "CINCH",
+    "canonicalUrl": "https://coldcactus.ca/collections/cinch",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/cold-cactus-exclusives",
+    "path": "/collections/cold-cactus-exclusives",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Cold Cactus Exclusives &ndash; Cold Cactus Inc.",
+    "h1": "Cold Cactus Exclusives",
+    "canonicalUrl": "https://coldcactus.ca/collections/cold-cactus-exclusives",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/cowbows",
+    "path": "/collections/cowbows",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/cowboy-hats",
+    "path": "/collections/cowboy-hats",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Cowboy Hats &ndash; Cold Cactus Inc.",
+    "h1": "Cowboy Hats",
+    "canonicalUrl": "https://coldcactus.ca/collections/cowboy-hats",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/cowgirl-tuff-winter",
+    "path": "/collections/cowgirl-tuff-winter",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/cowhide-christmas",
+    "path": "/collections/cowhide-christmas",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Make it a *Cowboy Christmas* &ndash; Cold Cactus Inc.",
+    "h1": "Make it a *Cowboy Christmas*",
+    "canonicalUrl": "https://coldcactus.ca/collections/cowhide-christmas",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/cropped-denim",
+    "path": "/collections/cropped-denim",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/denim",
+    "path": "/collections/denim",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Denim &ndash; Cold Cactus Inc.",
+    "h1": "Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/denim",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/denim-mens-apparel",
+    "path": "/collections/denim-mens-apparel",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Men's Denim &ndash; Cold Cactus Inc.",
+    "h1": "Men's Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/denim-mens-apparel",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/dresses",
+    "path": "/collections/dresses",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Dresses &ndash; Cold Cactus Inc.",
+    "h1": "Dresses",
+    "canonicalUrl": "https://coldcactus.ca/collections/dresses",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/earrings",
+    "path": "/collections/earrings",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Earrings &ndash; Cold Cactus Inc.",
+    "h1": "Earrings",
+    "canonicalUrl": "https://coldcactus.ca/collections/earrings",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/ferrell",
+    "path": "/collections/ferrell",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Ferrell &ndash; Cold Cactus Inc.",
+    "h1": "Ferrell",
+    "canonicalUrl": "https://coldcactus.ca/collections/ferrell",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 115
+  },
+  {
+    "url": "https://coldcactus.ca/collections/footwear",
+    "path": "/collections/footwear",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/gift-cards",
+    "path": "/collections/gift-cards",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/gift-ideas-for-cowhide-lovers",
+    "path": "/collections/gift-ideas-for-cowhide-lovers",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/gift-ideas-for-kids",
+    "path": "/collections/gift-ideas-for-kids",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/gift-ideas-for-the-home-maker",
+    "path": "/collections/gift-ideas-for-the-home-maker",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "Gift Ideas for the Home Maker &ndash; Cold Cactus Inc.",
+    "h1": "Gift Ideas for the Home Maker",
+    "canonicalUrl": "https://coldcactus.ca/collections/gift-ideas-for-the-home-maker",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 118
+  },
+  {
+    "url": "https://coldcactus.ca/collections/gift-ideas-for-the-jewelry-lover",
+    "path": "/collections/gift-ideas-for-the-jewelry-lover",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/gifts-ideas-for-men",
+    "path": "/collections/gifts-ideas-for-men",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "Gifts Ideas for Men &ndash; Cold Cactus Inc.",
+    "h1": "Gifts Ideas for Men",
+    "canonicalUrl": "https://coldcactus.ca/collections/gifts-ideas-for-men",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 121
+  },
+  {
+    "url": "https://coldcactus.ca/collections/girls-denim-copy",
+    "path": "/collections/girls-denim-copy",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Boy's Denim &ndash; Cold Cactus Inc.",
+    "h1": "Boy's Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/girls-denim-copy",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 115
+  },
+  {
+    "url": "https://coldcactus.ca/collections/girls-tops-outerwear-copy",
+    "path": "/collections/girls-tops-outerwear-copy",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Girl's Denim &ndash; Cold Cactus Inc.",
+    "h1": "Girl's Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/girls-tops-outerwear-copy",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/graphic-tees",
+    "path": "/collections/graphic-tees",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Graphic Tees &ndash; Cold Cactus Inc.",
+    "h1": "Graphic Tees",
+    "canonicalUrl": "https://coldcactus.ca/collections/graphic-tees",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/haala-denim",
+    "path": "/collections/haala-denim",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Haala Denim &ndash; Cold Cactus Inc.",
+    "h1": "Haala Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/haala-denim",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 108
+  },
+  {
+    "url": "https://coldcactus.ca/collections/handbags-and-wallets",
+    "path": "/collections/handbags-and-wallets",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Purses, Backpacks, and Wallets &ndash; Cold Cactus Inc.",
+    "h1": "Purses, Backpacks, and Wallets",
+    "canonicalUrl": "https://coldcactus.ca/collections/handbags-and-wallets",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/hats",
+    "path": "/collections/hats",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Hats &ndash; Cold Cactus Inc.",
+    "h1": "Hats",
+    "canonicalUrl": "https://coldcactus.ca/collections/hats",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/hooey",
+    "path": "/collections/hooey",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Hooey &ndash; Cold Cactus Inc.",
+    "h1": "Hooey",
+    "canonicalUrl": "https://coldcactus.ca/collections/hooey",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/hooey-backpacks",
+    "path": "/collections/hooey-backpacks",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Backpacks &ndash; Cold Cactus Inc.",
+    "h1": "Backpacks",
+    "canonicalUrl": "https://coldcactus.ca/collections/hooey-backpacks",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/hyer-men-and-womens",
+    "path": "/collections/hyer-men-and-womens",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/jewelry",
+    "path": "/collections/jewelry",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Jewelry &ndash; Cold Cactus Inc.",
+    "h1": "Jewelry",
+    "canonicalUrl": "https://coldcactus.ca/collections/jewelry",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/kids-belts-accessories",
+    "path": "/collections/kids-belts-accessories",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Kid's Belts & Accessories &ndash; Cold Cactus Inc.",
+    "h1": "Kid's Belts & Accessories",
+    "canonicalUrl": "https://coldcactus.ca/collections/kids-belts-accessories",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/kids-denim",
+    "path": "/collections/kids-denim",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "Kid's Denim &ndash; Cold Cactus Inc.",
+    "h1": "Kid's Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/kids-denim",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 121
+  },
+  {
+    "url": "https://coldcactus.ca/collections/kids-footwear",
+    "path": "/collections/kids-footwear",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Kid's Footwear &ndash; Cold Cactus Inc.",
+    "h1": "Kid's Footwear",
+    "canonicalUrl": "https://coldcactus.ca/collections/kids-footwear",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 107
+  },
+  {
+    "url": "https://coldcactus.ca/collections/kimes-ranch",
+    "path": "/collections/kimes-ranch",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Kimes Ranch &ndash; Cold Cactus Inc.",
+    "h1": "Kimes Ranch",
+    "canonicalUrl": "https://coldcactus.ca/collections/kimes-ranch",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/kimes-ranch-denim",
+    "path": "/collections/kimes-ranch-denim",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Kimes Ranch Denim &ndash; Cold Cactus Inc.",
+    "h1": "Kimes Ranch Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/kimes-ranch-denim",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/kitchen",
+    "path": "/collections/kitchen",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/liberty-black",
+    "path": "/collections/liberty-black",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/madison-creek",
+    "path": "/collections/madison-creek",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/men-s-apparel",
+    "path": "/collections/men-s-apparel",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Men’s Apparel &ndash; Cold Cactus Inc.",
+    "h1": "Men’s Apparel",
+    "canonicalUrl": "https://coldcactus.ca/collections/men-s-apparel",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/mens-footwear",
+    "path": "/collections/mens-footwear",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Men's Footwear &ndash; Cold Cactus Inc.",
+    "h1": "Men's Footwear",
+    "canonicalUrl": "https://coldcactus.ca/collections/mens-footwear",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/mens-graphic-tees",
+    "path": "/collections/mens-graphic-tees",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Men's Graphic Tees &ndash; Cold Cactus Inc.",
+    "h1": "Men's Graphic Tees",
+    "canonicalUrl": "https://coldcactus.ca/collections/mens-graphic-tees",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/mens-outerwear",
+    "path": "/collections/mens-outerwear",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Men's Outerwear &ndash; Cold Cactus Inc.",
+    "h1": "Men's Outerwear",
+    "canonicalUrl": "https://coldcactus.ca/collections/mens-outerwear",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/mens-western-button-down-shirts",
+    "path": "/collections/mens-western-button-down-shirts",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Men's Button Ups & Pearl Snaps &ndash; Cold Cactus Inc.",
+    "h1": "Men's Button Ups & Pearl Snaps",
+    "canonicalUrl": "https://coldcactus.ca/collections/mens-western-button-down-shirts",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/mothers-day-gift-guide",
+    "path": "/collections/mothers-day-gift-guide",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "Mother's Day Gift Guide &ndash; Cold Cactus Inc.",
+    "h1": "Mother's Day Gift Guide",
+    "canonicalUrl": "https://coldcactus.ca/collections/mothers-day-gift-guide",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 118
+  },
+  {
+    "url": "https://coldcactus.ca/collections/necklaces",
+    "path": "/collections/necklaces",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Necklaces &ndash; Cold Cactus Inc.",
+    "h1": "Necklaces",
+    "canonicalUrl": "https://coldcactus.ca/collections/necklaces",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/new-arrivals",
+    "path": "/collections/new-arrivals",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "New Arrivals & Restocks &ndash; Cold Cactus Inc.",
+    "h1": "New Arrivals & Restocks",
+    "canonicalUrl": "https://coldcactus.ca/collections/new-arrivals",
+    "metaDescription": "New western inspired favorites for you, your significant others, your home, and your littles - launching WEEKLY, Tuesdays at 9pm EST!",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/no-discounts",
+    "path": "/collections/no-discounts",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "No Discounts &ndash; Cold Cactus Inc.",
+    "h1": "No Discounts",
+    "canonicalUrl": "https://coldcactus.ca/collections/no-discounts",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/other",
+    "path": "/collections/other",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Other &ndash; Cold Cactus Inc.",
+    "h1": "Other",
+    "canonicalUrl": "https://coldcactus.ca/collections/other",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 108
+  },
+  {
+    "url": "https://coldcactus.ca/collections/other-mens-apparel",
+    "path": "/collections/other-mens-apparel",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Other &ndash; Cold Cactus Inc.",
+    "h1": "Collection: Other",
+    "canonicalUrl": "https://coldcactus.ca/collections/other-mens-apparel",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/outerwear",
+    "path": "/collections/outerwear",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Outerwear &ndash; Cold Cactus Inc.",
+    "h1": "Outerwear",
+    "canonicalUrl": "https://coldcactus.ca/collections/outerwear",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/perfumes-colognes",
+    "path": "/collections/perfumes-colognes",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Perfumes, Colognes, & Tallow &ndash; Cold Cactus Inc.",
+    "h1": "Perfumes, Colognes, & Tallow",
+    "canonicalUrl": "https://coldcactus.ca/collections/perfumes-colognes",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/pillows-bedding",
+    "path": "/collections/pillows-bedding",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/pink-friday-150-footwear",
+    "path": "/collections/pink-friday-150-footwear",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/pink-friday-75-denim",
+    "path": "/collections/pink-friday-75-denim",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/ranch-hands-kids",
+    "path": "/collections/ranch-hands-kids",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Ranch Hands (Kids) &ndash; Cold Cactus Inc.",
+    "h1": "Ranch Hands (Kids)",
+    "canonicalUrl": "https://coldcactus.ca/collections/ranch-hands-kids",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/rings",
+    "path": "/collections/rings",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Rings &ndash; Cold Cactus Inc.",
+    "h1": "Rings",
+    "canonicalUrl": "https://coldcactus.ca/collections/rings",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/rock-and-roll-denim",
+    "path": "/collections/rock-and-roll-denim",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Rock and Roll Denim &ndash; Cold Cactus Inc.",
+    "h1": "Rock and Roll Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/rock-and-roll-denim",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 111
+  },
+  {
+    "url": "https://coldcactus.ca/collections/rugs",
+    "path": "/collections/rugs",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale",
+    "path": "/collections/sale",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Sale &ndash; Cold Cactus Inc.",
+    "h1": "Sale",
+    "canonicalUrl": "https://coldcactus.ca/collections/sale",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-accessories",
+    "path": "/collections/sale-accessories",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-denim",
+    "path": "/collections/sale-denim",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-dresses",
+    "path": "/collections/sale-dresses",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-footwear",
+    "path": "/collections/sale-footwear",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-home-decor",
+    "path": "/collections/sale-home-decor",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Sale - Home Decor &ndash; Cold Cactus Inc.",
+    "h1": "Sale - Home Decor",
+    "canonicalUrl": "https://coldcactus.ca/collections/sale-home-decor",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-kids",
+    "path": "/collections/sale-kids",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "SALE Kids &ndash; Cold Cactus Inc.",
+    "h1": "SALE Kids",
+    "canonicalUrl": "https://coldcactus.ca/collections/sale-kids",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-mens-shirts",
+    "path": "/collections/sale-mens-shirts",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-outerwear",
+    "path": "/collections/sale-outerwear",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sale-womens-tops",
+    "path": "/collections/sale-womens-tops",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/shirts-and-outerwear",
+    "path": "/collections/shirts-and-outerwear",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Men's Shirts &ndash; Cold Cactus Inc.",
+    "h1": "Men's Shirts",
+    "canonicalUrl": "https://coldcactus.ca/collections/shirts-and-outerwear",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/shorts",
+    "path": "/collections/shorts",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Shorts & Jumpsuits &ndash; Cold Cactus Inc.",
+    "h1": "Shorts & Jumpsuits",
+    "canonicalUrl": "https://coldcactus.ca/collections/shorts",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 118
+  },
+  {
+    "url": "https://coldcactus.ca/collections/stetson",
+    "path": "/collections/stetson",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Stetson &ndash; Cold Cactus Inc.",
+    "h1": "Stetson",
+    "canonicalUrl": "https://coldcactus.ca/collections/stetson",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/stiefeld-cowhide-boots",
+    "path": "/collections/stiefeld-cowhide-boots",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Stiefeld Footwear &ndash; Cold Cactus Inc.",
+    "h1": "Stiefeld Footwear",
+    "canonicalUrl": "https://coldcactus.ca/collections/stiefeld-cowhide-boots",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 104
+  },
+  {
+    "url": "https://coldcactus.ca/collections/stiefeld-mule-shoe",
+    "path": "/collections/stiefeld-mule-shoe",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/stocking-stuffers-and-gifts-under-50",
+    "path": "/collections/stocking-stuffers-and-gifts-under-50",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Gifts & Stocking Stuffers &ndash; Cold Cactus Inc.",
+    "h1": "Gifts & Stocking Stuffers",
+    "canonicalUrl": "https://coldcactus.ca/collections/stocking-stuffers-and-gifts-under-50",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/straight-legs",
+    "path": "/collections/straight-legs",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "Straight Legs &ndash; Cold Cactus Inc.",
+    "h1": "Straight Legs",
+    "canonicalUrl": "https://coldcactus.ca/collections/straight-legs",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 121
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sts-ranch-apparel-and-accessories",
+    "path": "/collections/sts-ranch-apparel-and-accessories",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "STS Ranch Apparel and Accessories &ndash; Cold Cactus Inc.",
+    "h1": "STS Ranch Apparel and Accessories",
+    "canonicalUrl": "https://coldcactus.ca/collections/sts-ranch-apparel-and-accessories",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/sunglasses",
+    "path": "/collections/sunglasses",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Sunglasses &ndash; Cold Cactus Inc.",
+    "h1": "Sunglasses",
+    "canonicalUrl": "https://coldcactus.ca/collections/sunglasses",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 112
+  },
+  {
+    "url": "https://coldcactus.ca/collections/swimwear-amp-athleisure",
+    "path": "/collections/swimwear-amp-athleisure",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Athleisure & Loungewear &ndash; Cold Cactus Inc.",
+    "h1": "Athleisure & Loungewear",
+    "canonicalUrl": "https://coldcactus.ca/collections/swimwear-amp-athleisure",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 116
+  },
+  {
+    "url": "https://coldcactus.ca/collections/tack-dog-collars",
+    "path": "/collections/tack-dog-collars",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Tack & Dog Collars &ndash; Cold Cactus Inc.",
+    "h1": "Tack & Dog Collars",
+    "canonicalUrl": "https://coldcactus.ca/collections/tack-dog-collars",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 108
+  },
+  {
+    "url": "https://coldcactus.ca/collections/tasha-polizzi",
+    "path": "/collections/tasha-polizzi",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/tops",
+    "path": "/collections/tops",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Tops &ndash; Cold Cactus Inc.",
+    "h1": "Collection: Tops",
+    "canonicalUrl": "https://coldcactus.ca/collections/tops",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/trousers-flares",
+    "path": "/collections/trousers-flares",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Trousers & Flares &ndash; Cold Cactus Inc.",
+    "h1": "Trousers & Flares",
+    "canonicalUrl": "https://coldcactus.ca/collections/trousers-flares",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/wall-art-decor",
+    "path": "/collections/wall-art-decor",
+    "statusCode": 429,
+    "discoveredFrom": [
+      "html-link"
+    ]
+  },
+  {
+    "url": "https://coldcactus.ca/collections/western-shirts-button-pearl-snap",
+    "path": "/collections/western-shirts-button-pearl-snap",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Women's Button Ups & Pearl Snaps &ndash; Cold Cactus Inc.",
+    "h1": "Women's Button Ups & Pearl Snaps",
+    "canonicalUrl": "https://coldcactus.ca/collections/western-shirts-button-pearl-snap",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/wild-rags",
+    "path": "/collections/wild-rags",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Wild Rags &ndash; Cold Cactus Inc.",
+    "h1": "Wild Rags",
+    "canonicalUrl": "https://coldcactus.ca/collections/wild-rags",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/winter-outerwear",
+    "path": "/collections/winter-outerwear",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Winter Outerwear &ndash; Cold Cactus Inc.",
+    "h1": "Winter Outerwear",
+    "canonicalUrl": "https://coldcactus.ca/collections/winter-outerwear",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/womens-apparel",
+    "path": "/collections/womens-apparel",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Women's Apparel &ndash; Cold Cactus Inc.",
+    "h1": "Collection: Women's Apparel",
+    "canonicalUrl": "https://coldcactus.ca/collections/womens-apparel",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/wrangler",
+    "path": "/collections/wrangler",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Wrangler &ndash; Cold Cactus Inc.",
+    "h1": "Wrangler",
+    "canonicalUrl": "https://coldcactus.ca/collections/wrangler",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/wrangler-denim",
+    "path": "/collections/wrangler-denim",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "title": "Wrangler Denim &ndash; Cold Cactus Inc.",
+    "h1": "Wrangler Denim",
+    "canonicalUrl": "https://coldcactus.ca/collections/wrangler-denim",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 120
+  },
+  {
+    "url": "https://coldcactus.ca/collections/wrangler-x-lainey-wilson-1",
+    "path": "/collections/wrangler-x-lainey-wilson-1",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 2,
+    "title": "Wrangler X Lainey Wilson &ndash; Cold Cactus Inc.",
+    "h1": "Wrangler X Lainey Wilson",
+    "canonicalUrl": "https://coldcactus.ca/collections/wrangler-x-lainey-wilson-1",
+    "breadcrumbText": "{ \"@context\": \"http://schema.org\", \"@type\": \"Organization\", \"name\": \"Cold Cactus Inc.\", \"logo\": \"https:\\/\\/coldcactus.ca\\/cdn\\/shop\\/files\\/cclogoupdated_400x.webp?v=1716305005\", \"sameAs\": [ \"\", \"https:\\/\\/www.facebook.com\\/coldcactusboutique\\/\", \"https:\\/\\/www.pinterest.ca\\/coldcactus\\/\", \"https:\\/\\/www.instagram.com\\/coldcactusboutique\\/\", \"\", \"\", \"\", \"\" ], \"url\": \"https:\\/\\/coldcactus.ca\" }",
+    "linkCount": 108
+  },
+  {
+    "url": "https://coldcactus.ca/customer_authentication/redirect",
+    "path": "/customer_authentication/redirect",
+    "statusCode": 200,
+    "discoveredFrom": [
+      "html-link"
+    ],
+    "depth": 1,
+    "linkCount": 0
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "collection-redirect-mapper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "crm-crawl": "./src/crawl-old-site.mjs"
+  },
+  "scripts": {
+    "crawl": "node ./src/crawl-old-site.mjs",
+    "demo": "node ./src/crawl-old-site.mjs --url https://example.com --max-pages 5"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "url": "https://oldstore.example/",
+    "path": "/",
+    "statusCode": 0,
+    "discoveredFrom": [
+      "homepage"
+    ]
+  }
+]
